@@ -8,6 +8,9 @@ Dr Antonia Mey -- antonia.mey@ed.ac.uk
 
 ## Accompanying Notebooks
 
+| Session                 | Materials |
+|-----------|-------------------------|
+|Clustering in scikit-learn|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/meyresearch/ML_for_chemistry/blob/main/notebooks/ML_concepts_clustering.ipynb)|
 
 ## Summary
 ### Lecture 1:
